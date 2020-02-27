@@ -11,14 +11,7 @@ function setup() {
   //mic.start();
 
 
-}
- function mousePressed(){ if(mouseX>0&&mouseX<0&&mouseY>0&&mouseY<0){ console.log("mouse beep");
-  eyeBrow=-eyeBrow;  
-      }
-   if(condition{
-      //do this
-      } else if(mouseX<0||mouseX>20){
-   
+
    }
   
  
